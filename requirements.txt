@@ -1,0 +1,7 @@
+matplotlib
+numpy 
+pandas 
+plotly
+regex
+nltk
+spacy
